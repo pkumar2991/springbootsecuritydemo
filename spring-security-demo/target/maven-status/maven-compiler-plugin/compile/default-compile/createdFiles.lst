@@ -1,0 +1,9 @@
+com\example\springsecuritydemo\SpringSecurityDemoApplication.class
+com\example\springsecuritydemo\security\ApplicationSecurityConfiguration.class
+com\example\springsecuritydemo\controller\StudentManagementController.class
+com\example\springsecuritydemo\controller\TemplateController.class
+com\example\springsecuritydemo\model\Student.class
+com\example\springsecuritydemo\security\PasswordConfig.class
+com\example\springsecuritydemo\security\ApplicationUserPermission.class
+com\example\springsecuritydemo\security\ApplicationUserRole.class
+com\example\springsecuritydemo\controller\StudentController.class
