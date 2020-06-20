@@ -1,7 +1,8 @@
 # Compiled class file
 *.class
 
-spring-security-demo/target/**
+/target/
+.settings
 
 # Log file
 *.log
